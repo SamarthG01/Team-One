@@ -1,1 +1,1 @@
-console.log("Samarth dont know git");
+console.log("Samarth knows git");
